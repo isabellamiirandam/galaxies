@@ -10,4 +10,7 @@ body {
 }
 
 header h1 {
+  font-weight: bold;
+  font-size: 3.63rem;
+  color: #02799d;
 }
