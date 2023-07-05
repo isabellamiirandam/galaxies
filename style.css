@@ -39,22 +39,26 @@ header p {
 .a2261bcg {
   background-color: #323238;
   border-radius: 8px;
+
+  overflow: hidden;
 }
 
 .ngc4889,
 .ngc4874,
 .a2261bcg {
   margin-bottom: 7.12rem;
+
+  overflow: hidden;
 }
 
 .card img {
   border-radius: 8px 8px 0 0;
 
-  transition: all 200ms ease-in-out;
+  transition: filter 200ms ease-in-out, transform 1s ease-in;
 }
 
 .card img:hover {
-  transform: scale(1.4);
+  transform: scale(1.2) translateY(-5%);
 }
 
 .card h2 {
