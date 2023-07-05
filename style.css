@@ -31,23 +31,6 @@ header p {
   row-gap: 2.75rem;
 }
 
-.card h2 {
-  font-weight: 900;
-  font-size: 2.18rem;
-  color: #ffffff;
-  text-align: center;
-}
-
-.card p {
-  width: 321px;
-
-  font-weight: 600;
-  font-size: 1.21rem;
-  color: #ffffff;
-
-  margin: 24px 22.5px 26.5px;
-}
-
 .ic1101,
 .phoenix-cluster,
 .ngc262,
@@ -64,10 +47,27 @@ header p {
   margin-bottom: 7.12rem;
 }
 
+.card img {
+  border-radius: 8px;
+}
+
 .card img:hover {
   transform: scale(1.4);
 }
 
-.card img {
-  border-radius: 8px;
+.card h2 {
+  font-weight: 900;
+  font-size: 2.18rem;
+  color: #ffffff;
+  text-align: center;
+}
+
+.card p {
+  width: 321px;
+
+  font-weight: 600;
+  font-size: 1.21rem;
+  color: #ffffff;
+
+  margin: 24px 22.5px 26.5px;
 }
