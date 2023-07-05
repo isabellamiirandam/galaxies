@@ -28,6 +28,12 @@ header p {
   grid-template-columns: repeat(3, 1fr);
 }
 
+.card h2 {
+  font-weight: 900;
+  font-size: 2.18rem;
+  color: #ffffff;
+}
+
 .card p {
   width: 321px;
 
