@@ -40,11 +40,11 @@ header p {
 .card p {
   width: 321px;
 
-  margin-top: 1.5rem;
-
   font-weight: 600;
   font-size: 1.21rem;
   color: #ffffff;
+
+  margin: 24px 22.5px 26.5px;
 }
 
 .ic1101,
