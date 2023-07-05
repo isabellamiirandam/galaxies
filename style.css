@@ -27,6 +27,8 @@ header p {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   justify-items: center;
+  column-gap: 3.75rem;
+  row-gap: 2.75rem;
 }
 
 .card h2 {
@@ -43,4 +45,18 @@ header p {
   font-weight: 600;
   font-size: 1.21rem;
   color: #ffffff;
+}
+
+.ic1101,
+.phoenix-cluster,
+.ngc262,
+.ngc4889,
+.ngc4874,
+.a2261bcg {
+  background-color: #323238;
+  border-radius: 8px;
+}
+
+.card img:hover {
+  transform: scale(1.4);
 }
