@@ -22,3 +22,18 @@ header p {
   color: #ffffff;
   padding: 0 50.62rem 3.87rem 6.25rem;
 }
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card p {
+  width: 321px;
+
+  margin-top: 1.5rem;
+
+  font-weight: 600;
+  font-size: 1.21rem;
+  color: #ffffff;
+}
