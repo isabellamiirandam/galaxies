@@ -71,7 +71,8 @@ header p {
 .card p {
   width: 321px;
 
-  font-weight: 600;
+  font-family: "Bacasime Antique", serif;
+  font-weight: normal;
   font-size: 1.21rem;
   color: #ffffff;
 
